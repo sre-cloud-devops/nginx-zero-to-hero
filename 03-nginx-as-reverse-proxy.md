@@ -146,3 +146,6 @@ http://localhost
 - Always test config and reload NGINX after changes.
 - Ideal for API gateways, internal routing, and SSL termination.
 
+<img width="436" height="152" alt="image" src="https://github.com/user-attachments/assets/a95ba9c8-39fe-4a7e-b273-602d249bf531" />
+
+
